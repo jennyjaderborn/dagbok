@@ -1,0 +1,19 @@
+[
+    {
+        "rubrik": "Idag lördag",
+        "datum": "2017/12/04",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat sit amet velit eget elementum. Mauris eget vestibulum dolor, eget mollis ante. Suspendisse gravida et enim nec convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque euismod gravida faucibus. Proin sed volutpat metus. Mauris rutrum ante turpis, sit amet tristique magna molestie a."
+    },{
+        "rubrik": "a",
+        "datum": "2013/11/03",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat sit amet velit eget elementum. Mauris eget vestibulum dolor, eget mollis ante. Suspendisse gravida et enim nec convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque euismod gravida faucibus. Proin sed volutpat metus. Mauris rutrum ante turpis, sit amet tristique magna molestie a."
+    },{
+        "rubrik": "Jobbat",
+        "datum": "2017/11/23",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat sit amet velit eget elementum. Mauris eget vestibulum dolor, eget mollis ante. Suspendisse gravida et enim nec convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque euismod gravida faucibus. Proin sed volutpat metus. Mauris rutrum ante turpis, sit amet tristique magna molestie a."
+    },{
+        "rubrik": "Vinter",
+        "datum": "2001/05/21",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat sit amet velit eget elementum. Mauris eget vestibulum dolor, eget mollis ante. Suspendisse gravida et enim nec convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque euismod gravida faucibus. Proin sed volutpat metus. Mauris rutrum ante turpis, sit amet tristique magna molestie a."
+    }
+]
